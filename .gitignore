@@ -1,0 +1,6 @@
+.env
+node_modules
+package-lock.json
+happy.webm
+setinterval test.js
+.idea
